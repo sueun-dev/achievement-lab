@@ -1,3 +1,7 @@
 # achievement-lab
 
-Sandbox repo for testing GitHub profile achievement conditions.
+Lightweight playground for testing collaborative GitHub workflows:
+
+- pull request flow
+- co-authored commits
+- discussions and accepted answers
